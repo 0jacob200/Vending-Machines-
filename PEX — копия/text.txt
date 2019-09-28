@@ -1,0 +1,8 @@
+480 1998-05-23 12:28 Withdrawal: card *2281: 229.7 EUR, balance: 1234 EUR
+720 1992-05-23 12:37 *3212: -115.5 EUR, balance: 1234 EUR
+480 1992-05-13 22:28 Transaction: card *2281: 233 EUR, balance: 1 EUR
+720 1992-07-23 12:37 *1001: +0.1 EUR, balance: 101.5 EUR
+480 1992-12-03 17:29 Transaction: card *1111: 1 EUR, balance: 999999 EUR
+720 2019-05-23 13:17 *1001: -999999 EUR, balance: 13 EUR
+480 2019-05-22 11:33 Withdrawal: card *9000: 444 EUR, balance: 0 EUR
+720 2019-05-23 14:47 *9999: +777 EUR, balance: 777 EUR
